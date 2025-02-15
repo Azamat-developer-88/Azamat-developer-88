@@ -29,17 +29,26 @@
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
-   &emsp;
+  &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
+  &emsp;
+  <a href="https://mui.com/" target="_blank"> 
+    <img alt="Material-UI" src="https://img.shields.io/badge/Material%20UI-%230081CB.svg?style=flat&logo=mui&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://tailwindcss.com/" target="_blank"> 
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white"/>
+  </a>
 </p>
+
 
 ### 👉 Databases & Cloud Hosting
 <p align="left">
